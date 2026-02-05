@@ -1,0 +1,1 @@
+There is the archives (.c and .h) from the Morse Code Translate using the MSP430. The codes from the Buzzer, LCD display, Button, and the Main. We have 2 differents ways: Morse-to-Letters and Letters-to-Morse.
